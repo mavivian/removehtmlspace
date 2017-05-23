@@ -1,2 +1,2 @@
 # removehtmlspace
-remove html css space
+remove space in html or css
